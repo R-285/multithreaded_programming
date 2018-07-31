@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.561,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\BusStop.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.365,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\Project1PCHBus.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.029,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.608,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\UnitBus.dfm=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.608,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\UnitBus.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.946,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\Bus.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.946,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\Bus.cpp=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.608,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\UnitBus.cpp=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.387,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.235,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\ProjectBus.cbproj=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\BusStop.cpp=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.607,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\File2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.219,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Bus\Unit1.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Bus.cpp"/>
+    <File Path="Bus.cpp"/>
+    <File Path="Bus.h"/>
+    <File Path="Project1PCHBus.h"/>
+    <File Path="ProjectBus.cpp"/>
+    <File Path="BusStop.cpp"/>
+    <File Path="BusStop.cpp"/>
+    <File Path="BusStop.h"/>
+    <File Path="UnitBus.cpp"/>
+    <File Path="UnitBus.cpp"/>
+    <File Path="UnitBus.dfm"/>
+    <File Path="UnitBus.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
